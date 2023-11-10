@@ -1,0 +1,17 @@
+.product-container {
+  height: 160px;
+  width: 110px;
+}
+product-image-container {
+  position: relative;
+}
+.product-image {
+  position: relative;
+  height: 42px;
+  width: 42px;
+  z-index: 1;
+}
+.cart-plus-icon,
+cart-minus-icon {
+  color: black;
+}

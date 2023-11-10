@@ -1,0 +1,8 @@
+.products-list {
+  display: flex;
+  flex-direction: row;
+}
+.category-list-container {
+  height: 100vh;
+  overflow-y: scroll;
+}
